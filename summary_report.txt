@@ -1,0 +1,16 @@
+
+    E-commerce Customer Analysis Summary Report
+    
+    1. Model Performance
+    - Best performing model: LogisticRegression
+    - Cross-validation accuracy: 0.51 (+/- 0.03)
+    
+    2. Key Business Insights
+    - Average purchase frequency: 5.47 purchases per year
+    - Customer retention rate: 50.81%
+    
+    3. Recommendations
+    - Focus on high-value customer retention
+    - Implement targeted marketing for churning customers
+    - Enhance engagement for low-activity customers
+    
